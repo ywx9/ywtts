@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ywtts"
+version = "0.0.1"
 description = "My text-to-speach project"
 readme = "README.MD"
 license = {file = "LICENSE"}
