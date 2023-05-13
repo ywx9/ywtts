@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.wordBasedSuggestions": false,
+    "editor.tabSize": 4
+  }
+}
