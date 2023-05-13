@@ -7,9 +7,9 @@ name = "ywtts"
 description = "My text-to-speach project"
 readme = "README.MD"
 license = {file = "LICENSE"}
-classifiers = {
+classifiers = [
   "Programming Language :: Python :: 3:10",
-}
+]
 dependencies = [
   "fairseq",
   "pyworld",
